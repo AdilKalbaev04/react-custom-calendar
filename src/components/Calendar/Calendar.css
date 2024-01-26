@@ -103,7 +103,7 @@
 
 .calendar__pick__items__container {
   font-weight: 400;
-  color: #333;
+  color: #5f5e5e;
   text-align: center;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
